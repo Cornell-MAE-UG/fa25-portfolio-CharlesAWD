@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/cv.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/cv.pdf" | https://docs.google.com/document/d/1ZguE4mjCowl-Cs8a8rrmGBL0oBCmZ_Aj/edit }}) in PDF format.
 
 
 **Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
