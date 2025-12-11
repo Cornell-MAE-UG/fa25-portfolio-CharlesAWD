@@ -7,7 +7,7 @@ title: Charles Wall-Davis
 
 ![Profile Picture](assets/images/ProfessPic.jpg)
 
-[Resume](assets/cv.pdf)    
+[Resume + Projects](https://docs.google.com/document/d/1ZguE4mjCowl-Cs8a8rrmGBL0oBCmZ_Aj/edit?usp=sharing&ouid=117949089050342678655&rtpof=true&sd=true)    
 [Systems: Walking Robot](assets/Final%20Report%20MAE3260.pdf)    
 [Fluid Dissection](assets/FluidDissection.pdf)    
 [Torque Wrench Design](assets/TorqueWrench.pdf)
